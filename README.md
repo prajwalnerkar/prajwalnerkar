@@ -1,14 +1,16 @@
 # Hi, I'm Prajwal Nerkar 👋
 
-**Full-Stack Developer** · Software Engineer Trainee @ Quadyster 🇺🇸 · Open to new opportunities
+**Full-Stack Developer & Data Engineer** · Software Engineer Trainee @ Quadyster 🇺🇸 · Open to new opportunities
 
 ---
 
-I'm a Full-Stack Developer from Nagpur, India, currently working remotely with a US-based company. I love building scalable web apps, clean REST APIs, and data pipelines. I'm always looking to learn and contribute to meaningful projects.
+I'm a Full-Stack Developer & Data Engineer from Nagpur, India, currently working remotely with a US-based company. I love building scalable web apps, clean REST APIs, data pipelines, and cloud-based ETL systems. I'm always looking to learn and contribute to meaningful projects.
 
 ---
 
 ## 🛠 Tech Stack
+
+**Full-Stack Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -17,13 +19,23 @@ I'm a Full-Stack Developer from Nagpur, India, currently working remotely with a
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Data Engineering & Analytics**
+
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🎬 Netflix Data Engineering & Analytics Pipeline — [GitHub]([https://github.com/prajwalnerkar](https://github.com/prajwalnerkar/Netflix-Data-Engineering-Analytics-Pipeline))
+End-to-end data engineering pipeline simulating Netflix's data ecosystem. Raw data flows through an ETL pipeline using AWS S3 (data lake), Snowflake (data warehouse), and dbt (SQL transformations). Built with Python and SQL.
 
 ### 🔗 [Decentralized NFT Marketplace](https://prajwalnerkar.app) — Live
 Full-stack NFT platform built with React, Solidity, Ethereum, IPFS & MetaMask. Supports minting, buying, and selling NFTs with ERC-721 smart contracts.
