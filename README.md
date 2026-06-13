@@ -1,6 +1,6 @@
 # Hi, I'm Prajwal Nerkar 👋
 
-**Full-Stack Developer & Data Engineer** · Software Engineer Trainee @ Quadyster 🇺🇸 · Open to new opportunities
+**Full-Stack Developer & Data Engineer** · Software Engineer Trainee @ Quadyster · Open to new opportunities
 
 ---
 
@@ -34,7 +34,7 @@ I'm a Full-Stack Developer & Data Engineer from Nagpur, India, currently working
 
 ## 🚀 Featured Projects
 
-### 🎬 Netflix Data Engineering & Analytics Pipeline — [GitHub]([https://github.com/prajwalnerkar](https://github.com/prajwalnerkar/Netflix-Data-Engineering-Analytics-Pipeline))
+### 🎬 Netflix Data Engineering & Analytics Pipeline — [GitHub](https://github.com/prajwalnerkar/netflix-data-engineering)
 End-to-end data engineering pipeline simulating Netflix's data ecosystem. Raw data flows through an ETL pipeline using AWS S3 (data lake), Snowflake (data warehouse), and dbt (SQL transformations). Built with Python and SQL.
 
 ### 🔗 [Decentralized NFT Marketplace](https://prajwalnerkar.app) — Live
@@ -59,7 +59,7 @@ EDA on 10,000+ records using Python, Pandas, NumPy, Matplotlib, Seaborn & Power 
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-nerkar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://prajwalnerkar.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://prajwalnerkar.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prajwalnerkar0@gmail.com)
 
 📍 Nagpur, Maharashtra, India
